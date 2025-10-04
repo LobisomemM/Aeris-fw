@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Conan/git/Conan/xTemp/fw"
+		},
+		{
+			"name": "xTemp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
