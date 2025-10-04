@@ -80,7 +80,7 @@ void setup()
         Serial.println("\n\n");
         Serial.println("Conectado");
         Serial.println("\n\n");
-        delay(100);
+        delay(10000);
         pinMode(5,  OUTPUT);
         digitalWrite(5, HIGH);
     }
@@ -88,7 +88,7 @@ void setup()
     Serial.println("\n\n");
     Serial.println("falha");
     Serial.println("\n\n");
-    delay(100);
+    delay(10000);
     pinMode(5,  OUTPUT);
     digitalWrite(5, HIGH);
 }
